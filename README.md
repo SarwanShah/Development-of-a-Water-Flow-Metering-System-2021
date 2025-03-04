@@ -1,3 +1,7 @@
+# Summary
+
+(Published IEEE IECON 2022) Engaged in interdisciplinary research on a government-funded project to study water demand and designed an IoT-enabled cost and energy efficient water flow measurement device. Developed power-optimized WiFi and GPRS-based prototypes delivering 45 days of operation on battery and achieving 97.3% flow measurement accuracy.
+
 # Design and Implementation of Smart Flowmeter for Urban Water Metering
 
 This project was developed while working as a Research Assistant at Habib University from Spring 2020 to Fall 2021 as a part of an HEC funded (Higher Education Commission) interdisciplinary faculty research, Improving Urban Wat Management to study water demand in Karachi. More information: https://karachiwaterproject.com/
